@@ -10,10 +10,7 @@ environment:
 
 dependencies:
   # js: ^0.6.3
-  web: ^1.0.0
   flutter:
-    sdk: flutter
-  flutter_web_plugins:
     sdk: flutter
 
 dev_dependencies:
@@ -35,4 +32,3 @@ flutter:
 platforms:
   android:
   ios:
-  web:
